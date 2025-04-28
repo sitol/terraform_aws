@@ -1,0 +1,1 @@
+Testing Terraform integration with AWS
